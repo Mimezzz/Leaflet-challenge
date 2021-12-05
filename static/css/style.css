@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+
+.legend {
+  /* line-height:18px; */
+  background-color:whitesmoke;
+  opacity: 0.75;
+}
+
+li {
+ width: 10px; 
+ height: 15px;
+ list-style-type: none;
+}
